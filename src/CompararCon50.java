@@ -14,14 +14,14 @@ public class CompararCon50 {
 
         String numeroEntrada;
         if (args.length == 0) {
-            numeroEntrada = "15";
+            numeroEntrada = "13";
         } else {
             numeroEntrada = args[0];
         }
         if (args.length != 1) {
             System.out.println("Es necesario pasar un argumento entero");
             System.out.println("Sin argumentos se ejecuta con un valor fijo " + numeroEntrada);
-            System.out.println("asdfasdf");
+            System.out.println("asdfasdfadsfasgasdg");
         }
 
         try {
