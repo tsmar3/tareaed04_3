@@ -22,6 +22,7 @@ public class CompararCon50 {
             System.out.println("Es necesario pasar un argumento entero");
             System.out.println("Sin argumentos se ejecuta con un valor fijo " + numeroEntrada);
             System.out.println("asdfasdfadsfasgasdg");
+            System.out.println("asdasdfasd");
         }
 
         try {
